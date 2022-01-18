@@ -1,0 +1,11 @@
+C:\Users\student\Documents\21is20 Dryukov Stepan\my_first_programm\my_first_programm\bin\Debug\my_first_programm.exe.config
+C:\Users\student\Documents\21is20 Dryukov Stepan\my_first_programm\my_first_programm\bin\Debug\my_first_programm.exe
+C:\Users\student\Documents\21is20 Dryukov Stepan\my_first_programm\my_first_programm\bin\Debug\my_first_programm.pdb
+C:\Users\student\Documents\21is20 Dryukov Stepan\my_first_programm\my_first_programm\obj\Debug\my_first_programm.csproj.AssemblyReference.cache
+C:\Users\student\Documents\21is20 Dryukov Stepan\my_first_programm\my_first_programm\obj\Debug\my_first_programm.Form1.resources
+C:\Users\student\Documents\21is20 Dryukov Stepan\my_first_programm\my_first_programm\obj\Debug\my_first_programm.Properties.Resources.resources
+C:\Users\student\Documents\21is20 Dryukov Stepan\my_first_programm\my_first_programm\obj\Debug\my_first_programm.csproj.GenerateResource.cache
+C:\Users\student\Documents\21is20 Dryukov Stepan\my_first_programm\my_first_programm\obj\Debug\my_first_programm.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\21is20 Dryukov Stepan\my_first_programm\my_first_programm\obj\Debug\my_first_programm.exe
+C:\Users\student\Documents\21is20 Dryukov Stepan\my_first_programm\my_first_programm\obj\Debug\my_first_programm.pdb
+C:\Users\student\Documents\21is20 Dryukov Stepan\my_first_programm\my_first_programm\obj\Debug\my_first_programm.Form2.resources
